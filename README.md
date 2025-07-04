@@ -1,6 +1,6 @@
 # mbft-vldb
 
-This repo contains code for paper 1468.
+This repo contains code for paper "Authenticated Aggregate Queries with Boolean Range Predicates on Blockchains".
 
 - data: contains the dataset used for experiments
 
